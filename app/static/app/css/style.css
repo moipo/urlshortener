@@ -1,0 +1,22 @@
+#userinput{
+  width:500px;
+  height:50px;
+  margin-left: 35%;
+  margin-top: 15%;
+
+}
+
+#button_submit{
+  width:45px;
+  height:45px;
+  margin: 40px;
+}
+
+body{
+  background-color:#bd9e84;
+}
+
+#ans{
+  margin-left:45%;
+  font-size: 40px;
+}
